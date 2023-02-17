@@ -5,5 +5,5 @@ faker==16.6.1
 botocore==1.29.73
 boto3==1.26.57
 cryptography==39.0.1
-ipython==8.8.0
+ipython==8.10.0
 redis==4.5.1
